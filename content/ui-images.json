@@ -1,0 +1,130 @@
+[
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/c4db923b42c0293ef5bfb684de1cee1e.png",
+    "alt": "The Finder displaying source media inside folders",
+    "width": "583",
+    "height": "229",
+    "source": "https://support.apple.com/guide/final-cut-pro/organize-files-during-import-ver392f50c2/mac",
+    "path": "assets/fcp/ingest-0.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/480d0f4aab4fbb3520a4be4ffc14ac73.png",
+    "alt": "The Info inspector showing a red triangle indicating that no proxy file exists for the selected clip",
+    "width": "379",
+    "height": "234",
+    "source": "https://support.apple.com/guide/final-cut-pro/create-optimized-and-proxy-files-verb8e5f6fd/mac",
+    "path": "assets/fcp/proxy-0.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/aa3ff8871adf01310e5234597eb4f4ab.png",
+    "alt": "The viewer set to the two-up display",
+    "width": "576",
+    "height": "335",
+    "source": "https://support.apple.com/guide/final-cut-pro/show-a-two-up-display-in-the-viewer-ver3363b235/mac",
+    "path": "assets/fcp/precision-0.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/75f08e196d3ba0cfb3cf8443bcbbb724.png",
+    "alt": "The Music role selected in the timeline index, and an audio clip with that role assigned appearing highlighted in the timeline",
+    "width": "652",
+    "height": "298",
+    "source": "https://support.apple.com/guide/final-cut-pro/intro-to-roles-verb71cbcbe/mac",
+    "path": "assets/fcp/roles-0.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/f62ffa85fc9ba7f8b24e605dbff5e69a.png",
+    "alt": "A timeline clip being trimmed to a beat, with the beat grid line highlighted in bright green",
+    "width": "390",
+    "height": "232",
+    "source": "https://support.apple.com/guide/final-cut-pro/edit-to-the-beat-ver65b55a2b7/mac",
+    "path": "assets/fcp/beat-detection-0.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/c9e82dceea4b1663cfc04d4e05cfa39f.png",
+    "alt": "The timeline shown zoomed out, with song parts indicated by hollow dots on a music clip and vertical green lines in the beat grid",
+    "width": "653",
+    "height": "188",
+    "source": "https://support.apple.com/guide/final-cut-pro/edit-to-the-beat-ver65b55a2b7/mac",
+    "path": "assets/fcp/beat-detection-1.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/28fe687cef9e3a20cfea96909cce6f08.png",
+    "alt": "The timeline shown zoomed in, with a music clip displaying markers for bars, and dashed lines in the grid indicating beats",
+    "width": "653",
+    "height": "188",
+    "source": "https://support.apple.com/guide/final-cut-pro/edit-to-the-beat-ver65b55a2b7/mac",
+    "path": "assets/fcp/beat-detection-3.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/8225ca46fedf78e86f9a6008b020d451.png",
+    "alt": "A clip in the timeline appearing half as long after a 200 percent speed setting is applied",
+    "width": "652",
+    "height": "448",
+    "source": "https://support.apple.com/guide/final-cut-pro/change-clip-speed-ver40b00150/mac",
+    "path": "assets/fcp/retime-0.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/935b69d9367ecc865378930afb909fee.png",
+    "alt": "The retime editor above a clip in the timeline, with the retiming handle being dragged right to create slow motion and the bar above the selection appearing orange",
+    "width": "535",
+    "height": "188",
+    "source": "https://support.apple.com/guide/final-cut-pro/change-clip-speed-ver40b00150/mac",
+    "path": "assets/fcp/retime-2.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/b1c0ee4ff51f6143d731163e6f66d23a.png",
+    "alt": "The Video Animation editor shown above a video clip in the timeline",
+    "width": "346",
+    "height": "290",
+    "source": "https://support.apple.com/guide/final-cut-pro/add-video-effect-keyframes-ver8e3f20ea/mac",
+    "path": "assets/fcp/keyframes-0.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/21ded2d3834bf137a01079cba5ead83d.png",
+    "alt": "The Magnetic Mask effect being dragged from the Effects browser to a person in the foreground in the viewer. As the effect is dragged, the person becomes highlighted, showing where the Magnetic Mask will be applied.",
+    "width": "652",
+    "height": "407",
+    "source": "https://support.apple.com/guide/final-cut-pro/add-magnetic-masks-ver1d67e3a53/mac",
+    "path": "assets/fcp/magnetic-mask-0.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/c12c319dd2c1b48a64fc2469c59b2b78.png",
+    "alt": "The viewer on the left showing the selected mask highlighted, and the Video inspector on the right showing the Auto Mask menu with a mask selected",
+    "width": "632",
+    "height": "421",
+    "source": "https://support.apple.com/guide/final-cut-pro/add-an-auto-mask-to-a-video-effect-ver722466c60/mac",
+    "path": "assets/fcp/auto-mask-1.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/f9319b7f1e5562bfbef09b1e0f33d598.png",
+    "alt": "The viewer on the left showing the Color Adjustments effect applied to the masked object, and the Video inspector on the right showing a Color Adjustments section for the added Auto Mask",
+    "width": "632",
+    "height": "301",
+    "source": "https://support.apple.com/guide/final-cut-pro/add-an-auto-mask-to-a-video-effect-ver722466c60/mac",
+    "path": "assets/fcp/auto-mask-2.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/d54f54f844ca262e381c705d2bbba760.png",
+    "alt": "The Draw Mask controls in the Video inspector",
+    "width": "379",
+    "height": "244",
+    "source": "https://support.apple.com/en-ca/guide/final-cut-pro/verf8949b45e/mac",
+    "path": "assets/fcp/mask-controls-1.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/22d1620e6050a5cad4535990c547bf50.png",
+    "alt": "The viewer showing a partially completed mask with control points and red lines",
+    "width": "575",
+    "height": "335",
+    "source": "https://support.apple.com/en-ca/guide/final-cut-pro/verdf1d2b15a/mac",
+    "path": "assets/fcp/draw-mask-3.webp"
+  },
+  {
+    "url": "https://help.apple.com/assets/6A29F5537442EFE69C0CD4F3/6A29F558FEEBDB01270C8EF2/en_US/3d8630c854e7b258823d17a440d686f9.png",
+    "alt": "The viewer showing a closed mask with control points, surrounded by solid black representing the transparent area",
+    "width": "575",
+    "height": "335",
+    "source": "https://support.apple.com/en-ca/guide/final-cut-pro/verdf1d2b15a/mac",
+    "path": "assets/fcp/draw-mask-4.webp"
+  }
+]
